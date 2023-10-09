@@ -1,2 +1,2 @@
-# hacktoberfest
-Anything related to the Hacktoberfest of 2023
+# Hacktoberfest
+Anything related to the Hacktoberfest of 2023.
